@@ -1,2 +1,3 @@
 Name : Shruti Patil
 Age : 23
+Hobby : Art
